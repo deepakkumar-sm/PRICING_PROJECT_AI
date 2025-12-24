@@ -1,0 +1,72 @@
+Rate card — UBR 123
+
+- UBR ID: UBR 123
+- Course name: python basics1
+- Currency: INR
+- Session length: 1 day
+- Pricing rule: INR 100/learner for up to 10 learners. Each additional learner costs INR 10 more (i.e., INR 110/extra learner).
+
+Breakdown
+- First 10 learners: 10 × INR 100 = INR 1,000
+- Extra 10 learners (20 total − 10 base = 10 extra): 10 × INR 110 = INR 1,100
+
+Total fee (payable): INR 2,100
+- Effective average per learner: INR 2,100 / 20 = INR 105 per learner
+
+If you want this formatted as an invoice or need taxes/discounts applied, tell me the tax rate or discount and I’ll update it.
+
+Rate card — UBR 1231
+
+- Course name: python basics2
+- UBR ID: 1231
+- Term: 6 days
+- Learners enrolled: 20
+- Currency: INR
+
+Pricing rules applied (from instructions)
+- INR 100/day for up to 5 days.
+- Each extra day costs INR 10 per day more (i.e., day 6 = INR 110/day).
+
+Calculation
+- Per-learner:
+  - Days 1–5: 5 × INR 100 = INR 500
+  - Day 6: 1 × INR 110 = INR 110
+  - Total per learner = INR 500 + INR 110 = INR 610
+- Total for 20 learners = 20 × INR 610 = INR 12,200
+
+Summary
+- Course_Fee (total) = INR 12,200
+- Per-learner total = INR 610
+
+If you want this exported as CSV or a different breakdown (invoice format, per-day table, or inclusion of taxes/discounts), tell me which format.
+
+Summary — UBR 1232 (python basics3)
+- Requested learners: 20 — Special instructions cap enrollment at 16. I’ve prepared the rate card for the maximum allowed 16 learners. Confirm if you want me to (a) keep cap at 16, (b) split into multiple batches, or (c) override the cap (I can show extrapolated pricing).
+- Term: 5 days
+- Currency: INR
+
+Rate structure (per your instructions)
+- INR 100 / learner until 10 learners
+- For every additional block of 2 learners, the per-learner rate increases by INR 50
+- Max enrolment = 16 learners
+
+Applied per-learner rates and totals (per day and for full 5-day term)
+- Learners 1–10: 10 learners × INR 100 = INR 1,000 per day → INR 5,000 for 5 days
+- Learners 11–12: 2 learners × INR 150 = INR 300 per day → INR 1,500 for 5 days
+- Learners 13–14: 2 learners × INR 200 = INR 400 per day → INR 2,000 for 5 days
+- Learners 15–16: 2 learners × INR 250 = INR 500 per day → INR 2,500 for 5 days
+
+Totals
+- Total per day (16 learners): INR 2,200
+- Total for 5 days (16 learners): INR 11,000
+
+Effective averages
+- Average cost per learner for full 5-day course: INR 11,000 / 16 = INR 687.50
+- Average cost per learner per day: INR 687.50 / 5 = INR 137.50
+
+Notes / next steps
+- You requested 20 learners but the special instructions cap is 16 — 4 learners would exceed the stated maximum. Options:
+  1. Accept up to 16 (as above).
+  2. Split into two batches (e.g., 16 learners batch + separate 4-learner batch) — I can prepare rate(s) for the second batch.
+  3. If you want to enroll 20 and are OK ignoring the cap, I can extrapolate pricing for 17–20 learners (following the same +INR50 per 2-learners rule) and produce a rate card for 20.
+Which option do you want?

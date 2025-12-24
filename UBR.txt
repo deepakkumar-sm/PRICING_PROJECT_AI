@@ -1,0 +1,18 @@
+UBR 123:
+Course_name = python basics1
+special instructions = INR 100/learner until 10 learners. Extra learner would cost INR 10 per learner more.
+total learners enrolled = 20
+total days of session = 1
+
+UBR 1231:
+Course_name = python basics2
+special instructions = INR 100/day until 5 days. Extra day would cost INR 10 per day more.
+total learners enrolled = 20
+total days of session = 6
+
+
+UBR 1232:
+Course_name = python basics3
+special instructions = INR 100/learner until 10 learners. then for every 2 learners, cost would be INR 50 more, max we can enrol 16 learners
+total learners enrolled = 20
+total days of session = 5
